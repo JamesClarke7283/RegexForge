@@ -2,6 +2,9 @@
 name = "regexforge_leptos"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/JamesClarke7283/RegexForge"
+authors = ["James Clarke <james@jamesdavidclarke.com>"]
+license = "GPL-3.0-or-later"
 
 [dependencies]
 leptos = { version = "0.6", features = ["csr"] }

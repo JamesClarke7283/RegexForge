@@ -3,8 +3,8 @@ name = "regexforge_tauri"
 version = "0.0.0"
 description = "The Application Window For RegexForge"
 authors = ["James Clarke <james@jamesdavidclarke.com>"]
-license = ""
-repository = ""
+license = "GPL-3.0-or-later"
+repository = "https://github.com/JamesClarke7283/RegexForge"
 edition = "2021"
 
 

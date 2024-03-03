@@ -2,5 +2,17 @@
 name = "libregexforge"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/JamesClarke7283/RegexForge"
+authors = ["James Clarke <james@jamesdavidclarke.com>"]
+license = "GPL-3.0-or-later"
+readme = "README.md"
+keywords = [
+    "regex",
+    "pattern matching",
+    "regular expressions",
+    "text processing",
+    "string manipulation",
+]
+categories = ["text-processing"]
 
 [dependencies]
